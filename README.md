@@ -24,5 +24,8 @@ Este projeto consiste em um sistema de cadastro de alunos, onde o usuário pode 
    - É possível cadastrar um novo aluno através de um formulário.
    - Os dados são enviados ao back-end por meio de uma requisição `POST` à API, usando `fetch`.
 
+## Captura de Tela
+
+![image](https://github.com/user-attachments/assets/e77d1973-2def-425d-bbd2-0d9059e29fa9)
 
 
